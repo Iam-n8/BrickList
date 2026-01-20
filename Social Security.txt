@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Title: HaGeZi's Social Networks DNS Blocklist
+! Title: Mod of HaGeZi's Social Networks DNS Blocklist.
 ! Description: Blocks access to social networks (Facebook, Instagram, TikTok, X (formerly Twitter), Snapchat, ...)
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
